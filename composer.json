@@ -1,0 +1,20 @@
+{
+    "name": "mattias_wikstrom/xml_via_attributes",
+    "description": "[TODO: Add description.]",
+    "type": "library",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "MattiasWikstrom\\XmlViaAttributes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mattias Wikström",
+            "email": "mattias.wikstrom@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
